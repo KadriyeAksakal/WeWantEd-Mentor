@@ -7,3 +7,6 @@
  
 
    Nowadays, the number of students graduating from the university is increasing day by day. After graduation, graduated students are found insufficient in the first place according to many job advertisements and therefore they cannot enter a job certain period of time. They wear themselves out both mentally and physically with the process of finding a job and feeling inadequate. It is also the instinct to provide their own economy top it all. With this project, I aim to educate and graduate more qualified students from relevant departments in universities. For this reason, with the “WeWantEd-Mentor, Mobile Based Application Developed For Mentoring To Do Students” my project, I will ensure that the students in their fields can meet the who are more knowledgeable students about them in a particular field and improve themselves, that they can get help whenever they want, they can establish a social network with people in their fields by participating in the events. I developed my project on Cross Platform. In this way, both Android and IOS users will be able to register and use to application without any problems.
+
+
+YouTube link: https://www.youtube.com/watch?v=6E2PeWhCnfw&t=3s 
