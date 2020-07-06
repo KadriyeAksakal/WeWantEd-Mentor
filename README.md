@@ -2,7 +2,7 @@
 
  Günümüzde her geçen gün üniversiteden mezun olan öğrenci sayısı oldukça artmakta. Mezun olan öğrencilerin birçoğu mezun olduktan sonraki ilk periyotta birçok ilana göre yetersiz bulunmakta ve bu yüzden belirli bir süre işe girememektedir. Yaşadıkları iş bulma süreci ve kendilerini yetersiz hissetme duygusu ile hem mental hem de fiziki anlamda kendilerini yıpratmaktadırlar. Kendi ekonomilerini sağlama içgüdüsü de cabası. Bu proje ile üniversitelerde ilgili bölümlerden daha nitelikli öğrenci yetiştirilip mezun edilmesini hedefliyorum. Bu sebepten dolayı “WeWantEd-Mentor Öğrencilere Danışmanlık Yapabilmek İçin Geliştirilmiş Mobil Tabanlı Uygulama” projem ile üniversitelerde bulunan ve belirli bir alanda ilgili olan öğrencilerin bu konularda kendilerinden daha bilgili öğrenciler ile buluşup kendilerini geliştirebilmelerini, istedikleri zaman yardım alabilmelerini, etkinliklere katılarak alanlarındaki kişilerle sosyal bir ağ kurabilmelerini sağlayacağım. Projemi Cross platform üzerinde geliştirdim. Bu sayede hem Android hem IOS kullanıcıları uygulamaya sorunsuz olarak kayıt olup kullanabilecekler.
  
- ![Screenshot](Screenshot_1592097832.png)  ![Screenshot](Screenshot_1592098048.png)  ![Screenshot](Screenshot_1592077756.png)   
+ ![Screenshot](https://github.com/KadriyeAksakal/WeWantEd-Mentor/blob/master/Screenshot/Screenshot_1592097832.png)  ![Screenshot](https://github.com/KadriyeAksakal/WeWantEd-Mentor/blob/master/Screenshot/Screenshot_1592098048.png)  ![Screenshot](https://github.com/KadriyeAksakal/WeWantEd-Mentor/blob/master/Screenshot/Screenshot_1592077756.png)   
  
  
  
